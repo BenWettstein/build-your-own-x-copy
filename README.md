@@ -8,30 +8,30 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
-* [3D Renderer](#build-your-own-3d-renderer)
+* [3D Renderer](#build-your-own-3d-renderer) - interested
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
-* [Bot](#build-your-own-bot)
-* [Command-Line Tool](#build-your-own-command-line-tool)
-* [Database](#build-your-own-database)
+* [Bot](#build-your-own-bot) - interested
+* [Command-Line Tool](#build-your-own-command-line-tool) - interested
+* [Database](#build-your-own-database) - interested
 * [Docker](#build-your-own-docker)
-* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
+* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine) - interested
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-* [Game](#build-your-own-game)
-* [Git](#build-your-own-git)
-* [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
+* [Game](#build-your-own-game) - interested
+* [Git](#build-your-own-git) - interested 
+* [Network Stack](#build-your-own-network-stack) - interested
+* [Neural Network](#build-your-own-neural-network) - interested
 * [Operating System](#build-your-own-operating-system)
-* [Physics Engine](#build-your-own-physics-engine)
+* [Physics Engine](#build-your-own-physics-engine) - interested
 * [Programming Language](#build-your-own-programming-language)
-* [Regex Engine](#build-your-own-regex-engine)
+* [Regex Engine](#build-your-own-regex-engine) - interested
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
 * [Template Engine](#build-your-own-template-engine)
 * [Text Editor](#build-your-own-text-editor)
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
-* [Voxel Engine](#build-your-own-voxel-engine)
+* [Voxel Engine](#build-your-own-voxel-engine) - interested
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
